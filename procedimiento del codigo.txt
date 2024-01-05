@@ -1,0 +1,11 @@
+Procedimiento del código: 
+
+1.	Obtiene el año actual: Utiliza la biblioteca datetime para obtener el año actual.
+2.	Solicita información al usuario:
+•	Solicita al usuario su nombre a través de la función input.
+•	Solicita al usuario su altura como un número decimal (float) mediante otra entrada.
+•	Solicita al usuario su año de nacimiento como un número entero.
+3.	Calcula la edad: Resta el año de nacimiento ingresado al año actual para calcular la edad del usuario.
+4.	Imprime la información ingresada:
+•	Imprime el nombre, la edad y la altura que el usuario ha ingresado utilizando print.
+•	Verifica si la edad es menor a 18 y muestra un mensaje indicando si el usuario es menor de edad o no, utilizando una estructura condicional (if-else) junto con un mensaje adicional.
